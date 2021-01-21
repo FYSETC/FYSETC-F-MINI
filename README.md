@@ -4,6 +4,10 @@ This is our open source machine: F-mini. Welcome to give us suggestions. We will
 
 ![](images/f-mini.png)
 
+## Firmware
+
+Firmware is in the `firmware` folder. Follow the `README.md` there. 
+
 ## Installation
 
 You need to follow the following steps to build this machine.
@@ -81,7 +85,3 @@ You need to follow the following steps to build this machine.
 ![](images/34.jpg)
 
 ![](images/35.jpg)
-
-## Firmware
-
-Firmware is in the `firmware` folder. Follow the `README.md` there. 
